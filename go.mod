@@ -1,6 +1,6 @@
-module github.com/slipros/devicedetector
+module github.com/skalibog/devicedetector
 
-go 1.23
+go 1.20
 
 require (
 	github.com/dlclark/regexp2 v1.11.4
